@@ -1,0 +1,6 @@
+{
+  "name": "Spark Office",
+  "description": "Fast, 100% client-side business productivity suite by Spark Lab: Email Signatures, Contract Diff, Contact Extractor, UTM Builder, and Quotation & Card Maker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
